@@ -1,0 +1,1 @@
+以下网站也可下载对应文件https://www.kaggle.com/cdeotte/tf-robertahttps://www.kaggle.com/xhlulu/huggingface-bert即预训练模型和配置存放在bert-base-uncased中和input/tf-roberta,input/roberta-base(pytorch版本的)中，其实就是路径和代码里对应上就行
